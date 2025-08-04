@@ -1,0 +1,14 @@
+#ekle{
+    width: 80px; 
+    background-color: rgb(51, 239, 13);
+    color: white;
+}
+#todolist{
+    color: blueviolet;
+}
+#taskInput{
+    margin-left:680px;
+}
+body{
+    background-color: pink;
+}
